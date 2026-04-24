@@ -31,18 +31,12 @@ An interactive tool for learning and communicating in Indian Sign Language.
 ### 🤖 Robotics Project
 Showcasing robotics innovations and automation solutions.
 
-## 📸 Screenshots
-
-![Portfolio Screenshot](images/mayuri_photo.jpg)
-
-*Main portfolio page showcasing projects and skills.*
-
 
 ## 🌐 Deployment
 
 This project is deployed on Vercel for seamless hosting. Any pushes to the `main` branch automatically trigger a deployment.
 
-- **Live Site**: [View Portfolio](https://mayuri-portfolio.vercel.app) (assuming deployed URL)
+- **Live Site**: [View Portfolio](https://mayuripawarportfolio.vercel.app/) 
 
 ## 📞 Contact
 
@@ -56,5 +50,4 @@ Feel free to reach out!
 
 ⭐ If you like this portfolio, give it a star on GitHub!
 
-*Made with ❤️ by Mayuri*</content>
-<parameter name="filePath">e:\My_Portfolio\README.md
+*Made with ❤️ by Mayuri*
