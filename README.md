@@ -3,8 +3,7 @@
 Welcome to my personal portfolio website! This is a showcase of my projects, skills, and journey as a developer. Built with passion and creativity, this site reflects my dedication to crafting beautiful and functional web experiences.
 
 ## ✨ About
-
-This portfolio highlights my work in web development, including interactive projects, responsive designs, and innovative solutions. Explore my creations and get to know more about my expertise in front-end development.
+The portfolio highlights my work in web development, including interactive projects, responsive designs, and innovative solutions. Explore my creations and get to know more about my expertise in front-end development.
 
 ## 🚀 Features
 
@@ -38,22 +37,6 @@ Showcasing robotics innovations and automation solutions.
 
 *Main portfolio page showcasing projects and skills.*
 
-## 🏁 Getting Started
-
-To view the portfolio locally:
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/Mayurii07/Mayuri-Portfolio.git
-   ```
-
-2. **Navigate to the project directory**:
-   ```bash
-   cd Mayuri-Portfolio
-   ```
-
-3. **Open `index.html` in your browser**:
-   - Simply double-click the file or use a local server for better experience.
 
 ## 🌐 Deployment
 
@@ -65,8 +48,8 @@ This project is deployed on Vercel for seamless hosting. Any pushes to the `main
 
 Feel free to reach out!
 
-- **Email**: [Your Email Here]
-- **LinkedIn**: [Your LinkedIn Profile]
+- **Email**: [Mayupawar0711@gmail.com]
+- **LinkedIn**: [https://www.linkedin.com/in/mayuri-pawar-713083293/]
 - **GitHub**: [Mayurii07](https://github.com/Mayurii07)
 
 ---
